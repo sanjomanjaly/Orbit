@@ -44,7 +44,7 @@ Orbit uses targeted breathwork mechanics to manually shift your autonomic nervou
 
 ### 2. Chest Breathing (Up-Regulation / Activation)
 * **Pattern:** `6s Inhale` → `2s Exhale`
-* **The Science:** Longer, deeper inhalations paired with brief exhalations stimulate the **sympathetic nervous system**, increasing heart rate variability, oxygen uptake, and alertness. It acts as a natural, physiological shot of espresso for an under-stimulated brain.
+* **The Science:** Longer, deeper inhalations paired with brief exhalations stimulate the **sympathetic nervous system**, increasing heart rate, oxygen uptake, and alertness. It acts as a natural, physiological shot of espresso for an under-stimulated brain.
 * **When to use:** First thing in the morning, after long periods of inactivity, or when Orbit detects brain fog and suggests an Energy Boost.
 
 ---
@@ -70,7 +70,7 @@ Standard JavaScript `setInterval` timers drift or pause when browser tabs become
 Run Orbit locally on your machine in under two minutes.
 
 ### Prerequisites
-* Node.js 18.17 or later
+* Node.js 18.18 or later
 * npm, yarn, or pnpm
 
 ### Installation
@@ -103,7 +103,7 @@ Your focus sessions and reflections are personal.
 * **100% Local-Only Storage:** All task intents, sprint histories, streak data, and reflection logs are stored exclusively in your browser's `LocalStorage` via `useOrbitData`.
 * **Zero Tracking or Servers:** Orbit has no backend database, no user accounts, no telemetry, and no third-party analytics. Your data never leaves your device.
 
----
+<---
 
 ## 🗺️ Roadmap
 
@@ -112,7 +112,7 @@ Your focus sessions and reflections are personal.
 - [ ] **Keyboard-First Navigation:** Full shortcut support to keep hands on the keyboard and minimize context switching.
 - [ ] **JSON Data Export/Import:** Backup your streaks and reflection patterns locally.
 
----
+--->
 
 ## 🤝 Contributing
 
