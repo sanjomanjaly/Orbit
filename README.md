@@ -103,7 +103,7 @@ Your focus sessions and reflections are personal.
 * **100% Local-Only Storage:** All task intents, sprint histories, streak data, and reflection logs are stored exclusively in your browser's `LocalStorage` via `useOrbitData`.
 * **Zero Tracking or Servers:** Orbit has no backend database, no user accounts, no telemetry, and no third-party analytics. Your data never leaves your device.
 
-<---
+<!--
 
 ## 🗺️ Roadmap
 
@@ -112,7 +112,7 @@ Your focus sessions and reflections are personal.
 - [ ] **Keyboard-First Navigation:** Full shortcut support to keep hands on the keyboard and minimize context switching.
 - [ ] **JSON Data Export/Import:** Backup your streaks and reflection patterns locally.
 
---->
+-->
 
 ## 🤝 Contributing
 
