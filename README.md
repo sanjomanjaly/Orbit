@@ -4,8 +4,7 @@
 
 Orbit is a minimal, ADHD-first productivity web app designed to help you overcome task initiation paralysis using nervous-system regulation and low-friction micro-sprints.
 
-![Orbit App Demo Placeholder](https://via.placeholder.com/800x450/0f172a/38bdf8?text=Orbit+App+Demo+GIF+Placeholder)
-
+![Orbit App Demo](./public/images/one.png)
 ---
 
 ## 🧠 Why Orbit Exists (The Philosophy)
